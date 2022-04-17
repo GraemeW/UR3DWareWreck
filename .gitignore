@@ -49,3 +49,12 @@ Session.vim
 
 # Visual Studio
 .vs
+Content/StarterContent/Architecture/
+Content/StarterContent/Audio/
+Content/StarterContent/Blueprints/
+Content/StarterContent/HDRI/
+Content/StarterContent/Materials/
+Content/StarterContent/Particles/
+Content/StarterContent/Props/
+Content/StarterContent/Shapes/
+Content/StarterContent/Textures/
